@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_pdff"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:title="About"
+        android:icon="@drawable/ic_pdff"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_help"
+        android:title="Help"
+        android:icon="@drawable/ic_pdff"
+        app:showAsAction="never" />
+</menu>
